@@ -1,4 +1,4 @@
-# DIY Depot
+# DIY Depot (CAPSTONE PROJECT - Incomplete)
 
 ## Setting up local dev environment
 * Install NodeJS 15.7.0: [NodeJS](https://nodejs.org/en/)
