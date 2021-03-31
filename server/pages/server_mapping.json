@@ -1,0 +1,48 @@
+{
+	"mappings": [
+		{
+			"path": "/",
+			"file": "index.html"
+		},
+		{
+			"path": "/icon.png",
+			"file": "icon.png"
+		},
+		{
+			"path": "/projects-form",
+			"file": "project-form.html"
+		},
+		{
+			"path": "/projects",
+			"file": "project.html"
+		},
+		{
+			"path": "/projects/:id",
+			"file": "project-display.html"
+		},
+		{
+			"path": "/admin",
+			"file": "admin.html"
+		},
+		{
+			"path": "/admin/urls",
+			"file": "admin-urls.html"
+		},
+		{
+			"path": "/admin/tags",
+			"file": "admin-tags.html"
+		},
+		{
+			"path": "/login",
+			"file": "login.html"
+		},
+		{
+			"path": "/projects-featured",
+			"file": "project-featured.html"
+		},
+		{
+			"path": "/admin/users",
+			"file": "admin-users.html"
+		}
+	]
+}
